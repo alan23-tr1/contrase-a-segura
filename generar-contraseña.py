@@ -1,8 +1,3 @@
-"""
-Hecho por: [Tu Nombre]
-Este programa genera una contraseña segura basada en una o varias palabras clave.
-Combina las palabras clave con caracteres aleatorios para fortalecer la seguridad.
-"""
 
 import random
 import string
